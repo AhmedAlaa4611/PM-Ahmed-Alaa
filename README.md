@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-**Project Manager**: Ahmed Mahmoud Mohamed Shaaban  
-**Project Sponsor**: Ministry of Transportation  
-**Purpose**: To facilitate car sales and delivery to customers across the country.  
+**Project Manager**: Ahmed Mahmoud Mohamed Shaaban
+**Project Sponsor**: Ministry of Transportation
+**Purpose**: To facilitate car sales and delivery to customers across the country.
 **Project Timeline**: Project started on 1/1/2022 and was delivered by 30/12/2021.
 
 ## Team Members
@@ -111,7 +111,7 @@ Allocated budget: $200,000,000. Constraints include:
 
 ## License
 
-[MIT License](LICENSE)
+This project is licensed under the [MIT license](https://opensource.org/licenses/MIT)
 
 ## Contact
 
